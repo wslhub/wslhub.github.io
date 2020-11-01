@@ -1,0 +1,4 @@
+[submodule "themes/kube"]
+	path = themes/kube
+	branch = master
+	url = https://github.com/jeblister/kube.git
