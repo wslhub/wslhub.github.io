@@ -10,3 +10,11 @@ Paginate = 4
   github = "https://github.com/wslhub" # add your github profile name
   twitter = "" # add your twitter profile
   email = ""
+[[menu.main]]
+    name = "WSL 시작하기"
+    weight = -100
+    url = "https://wslhub.com/wsl-firststep"
+[[menu.main]]
+    name = "Blog"
+    weight = -50
+    url = "/blog/"
