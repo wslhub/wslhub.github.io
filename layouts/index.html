@@ -11,7 +11,9 @@
     <a class="button primary big" href="{{index .Params.buttons.links 0}}" 
       onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">{{index .Params.buttons.titles 0}}</a> 
     <a class="button outline big" href="{{index .Params.buttons.links 1}}" 
-      onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">{{index .Params.buttons.titles 1}}</a>
+      onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">{{index .Params.buttons.titles 1}}</a> 
+    <a class="button outline big" href="{{index .Params.buttons.links 2}}" 
+      onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">{{index .Params.buttons.titles 2}}</a>
     <p>{{ .Params.note }}</p>
   </div>
   <div class="message focus" data-component="message"> <span class="close small"></span>
