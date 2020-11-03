@@ -1,17 +1,16 @@
----
-title: "WSL 2 X11 애플리케이션을 더 깔끔하게 실행하는 방법"
-description: "WSL 2 X11 애플리케이션을 윈도우 환경에서 좀 더 깔끔하게 실행할 수 있는 방법을 소개합니다."
-date: 2020-11-03T23:19:57+09:00
-weight: 20
-draft: false
-isCJKLanguage: true
-author:
-    name: "남정현"
-    email: "rkttu@rkttu.com"
-    bio: "WSLHUB 운영진"
-    linklabel: "GitHub"
-    linkurl: "htts://github.com/rkttu"
----
++++
+title = "WSL 2 X11 애플리케이션을 더 깔끔하게 실행하는 방법"
+description = "WSL 2 X11 애플리케이션을 윈도우 환경에서 좀 더 깔끔하게 실행할 수 있는 방법을 소개합니다."
+date = 2020-11-03T23:19:57+09:00
+weight = 20
+draft = false
+[[author]]
+    name = "남정현"
+    email = "rkttu@rkttu.com"
+    bio = "WSLHUB 운영진"
+    linklabel = "GitHub"
+    linkurl = "htts://github.com/rkttu"
++++
 
 ![VCXSRV와 Seamless Multi Window로 구현한 Windows + Linux 데스크톱](https://miro.medium.com/max/1400/1*pjvI3auVYN60R5BBGjWuhA.png)
 
