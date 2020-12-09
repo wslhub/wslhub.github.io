@@ -12,8 +12,12 @@ Paginate = 4
   email = ""
 [[menu.main]]
     name = "WSL 시작하기"
-    weight = -100
+    weight = -150
     url = "https://wslhub.com/wsl-firststep"
+[[menu.main]]
+    name = "WSLHUB on Medium"
+    weight = -100
+    url = "https://medium.com/wslhub"
 [[menu.main]]
     name = "Blog"
     weight = -50
