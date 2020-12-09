@@ -6,11 +6,6 @@ note: "커뮤니티에서 활동하려면, 커뮤니티 규정에 동의해야 �
 buttons:
     titles: ["WSL 시작하기", "Facebook Group", "GitHub"]
     links: ["https://wslhub.com/wsl-firststep", "https://www.facebook.com/groups/wslhub", "https://github.com/wslhub"]
-banner:
-    text: "W$L/CONF>_ mini 컨퍼런스가 2020.11.11 오후 8시에 예정되어 있습니다."
-    button: 
-        text: "참여하기"
-        link: "https://www.notion.so/W-L-CONF-_-mini-20-11-9e0956e39e644f529c63776057dd21e9"
 features:
     first:
         title: "포럼 참여"
