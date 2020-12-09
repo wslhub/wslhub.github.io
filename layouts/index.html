@@ -16,10 +16,12 @@
       onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">{{index .Params.buttons.titles 2}}</a>
     <p>{{ .Params.note }}</p>
   </div>
+  {{ if .Params.banner }}
   <div class="message focus" data-component="message"> <span class="close small"></span>
     <a class="button inverted small " href="{{ .Params.banner.button.link }}" >{{ .Params.banner.button.text }}</a> 
     {{ .Params.banner.text }}
   </div>
+  {{ end }}
   <div id="kube-features">
     <div class="row gutters">
       <div class="col col-4 item">
