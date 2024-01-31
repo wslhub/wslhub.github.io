@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://wslhub.com/blog/2020-11-02-wslhub/</loc>
     <lastmod>2020-11-02T23:09:27+09:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://wslhub.com/docs/my-new-doc/</loc>
     <lastmod>2020-11-01T12:54:46+09:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://wslhub.com/blog/</loc>
     <lastmod>2020-11-02T23:09:27+09:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://wslhub.com/</loc>
     <lastmod>2020-11-02T23:09:27+09:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://wslhub.com/docs/</loc>
     <lastmod>2020-11-01T12:54:46+09:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://wslhub.com/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://wslhub.com/tags/</loc>
   </url>
+  
 </urlset>
