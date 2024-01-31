@@ -25,6 +25,7 @@ jobs:
         with:
           hugo-version: '0.119.0'          
       - name: Build
+        working-directory: src
         run: hugo --minify
       # Checkout destination branch
       - uses: actions/checkout@v4
